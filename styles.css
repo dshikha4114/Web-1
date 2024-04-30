@@ -1,0 +1,26 @@
+.container .redText{
+    color:blueviolet;
+}
+.container #myheader{
+    text-align: center;
+}
+.container > #myheader{
+    text-decoration: dotted;
+}
+div + h1{
+    color:greenyellow;
+}
+.myText1 + .myText2{
+    color:orangered;
+}
+
+.myText0 ~ .myText2{
+    color:blue;
+}
+
+input[type="text"] , input[type="email"]{
+    border: 2px solid green;
+}
+.myInput1[type="text"]{
+    border: 2px solid pink;
+}

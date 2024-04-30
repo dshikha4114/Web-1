@@ -1,0 +1,21 @@
+.container{
+   color:blue;
+   font-size: 1em;
+   font-style:italic;
+   font-weight:400;
+   text-align:left;
+   text-decoration:underline;
+   line-height: 48px;
+
+  
+   background-color:aquamarine;
+   background-image:url(https://unsplash.it/512/512);
+   background-size:cover;
+   background-repeat:no-repeat;
+   background-position:center center;
+
+
+
+
+
+}
